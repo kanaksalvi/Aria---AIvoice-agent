@@ -1,0 +1,19 @@
+{
+  "name": "aria-voice-agent",
+  "version": "1.0.0",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^16.4.0",
+    "openai": "^7.30.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "private": true
+}
